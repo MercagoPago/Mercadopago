@@ -108,7 +108,7 @@
 	}
 
 	body {
-		background: #303238 url('images/header.jpg');
+		background: url('images/header.jpg');
 
 		// Stops initial animations until page loads.
 			&.is-preload * {
